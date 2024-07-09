@@ -1,0 +1,27 @@
+{
+    "name": "vinkla/health-up",
+    "description": "A health check route is served at /up and will return a 200 HTTP response if WordPress has booted without exceptions",
+    "license": "MIT",
+    "type": "wordpress-muplugin",
+    "keywords": [
+        "wordplate",
+        "head",
+        "headache",
+        "wordpress",
+        "plugin"
+    ],
+    "authors": [
+        {
+            "name": "Vincent Klaiber",
+            "homepage": "https://github.com/vinkla"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "preferred-install": "dist"
+    }
+}
