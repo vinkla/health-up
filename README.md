@@ -4,7 +4,8 @@
 
 > A health check route is served at `/up` and will return a 200 HTTP response if WordPress has booted without any errors.
 
-This is still a **work in progress** and may not be completed yet.
+> [!WARNING]  
+> This work is in progress and has not yet been published on Packagist. It may or may not be published in the future.
 
 ## Installation
 
