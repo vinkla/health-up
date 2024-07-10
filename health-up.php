@@ -11,7 +11,7 @@
 
 /*
  * Plugin Name: Health Up
- * Description: A health check route is served at /up and will return a 200 HTTP response if WordPress has booted without exceptions.
+ * Description: A health check route is served at `/up` and will return a 200 HTTP response if WordPress has booted without any errors.
  * Author: Vincent Klaiber
  * Author URI: https://github.com/vinkla
  * Version: 1.0.0
